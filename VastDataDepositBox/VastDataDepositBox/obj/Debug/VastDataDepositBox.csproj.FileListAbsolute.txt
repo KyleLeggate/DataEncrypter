@@ -1,0 +1,10 @@
+D:\Documents\Code\Visual C#\VastDataDepositBox\VastDataDepositBox\bin\Debug\VastDataDepositBox.exe.config
+D:\Documents\Code\Visual C#\VastDataDepositBox\VastDataDepositBox\bin\Debug\VastDataDepositBox.exe
+D:\Documents\Code\Visual C#\VastDataDepositBox\VastDataDepositBox\bin\Debug\VastDataDepositBox.pdb
+D:\Documents\Code\Visual C#\VastDataDepositBox\VastDataDepositBox\obj\Debug\VastDataDepositBox.csprojAssemblyReference.cache
+D:\Documents\Code\Visual C#\VastDataDepositBox\VastDataDepositBox\obj\Debug\VastDataDepositBox.Form1.resources
+D:\Documents\Code\Visual C#\VastDataDepositBox\VastDataDepositBox\obj\Debug\VastDataDepositBox.Properties.Resources.resources
+D:\Documents\Code\Visual C#\VastDataDepositBox\VastDataDepositBox\obj\Debug\VastDataDepositBox.csproj.GenerateResource.cache
+D:\Documents\Code\Visual C#\VastDataDepositBox\VastDataDepositBox\obj\Debug\VastDataDepositBox.csproj.CoreCompileInputs.cache
+D:\Documents\Code\Visual C#\VastDataDepositBox\VastDataDepositBox\obj\Debug\VastDataDepositBox.exe
+D:\Documents\Code\Visual C#\VastDataDepositBox\VastDataDepositBox\obj\Debug\VastDataDepositBox.pdb
